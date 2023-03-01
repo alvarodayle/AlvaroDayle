@@ -1,12 +1,13 @@
 # Hi, I'm Álvaro Dayle! 👋
+
 ### About Me 😎
 
 I'm currently in college <br/>
 Always learning new technologies <br/>
-
-
+Committed and Focused on my tasks  <br/>
+Thinking about new projects
 
 ### Contact Me 📪
 
 [LinkedIn](https://www.linkedin.com/in/alvarodayle/) <br/>
-[Email](alvarodayle@gmail.com)
+[Email](mailto:alvarodayle@gmail.com)

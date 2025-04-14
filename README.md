@@ -3,7 +3,7 @@ Brazilian <br/>
 
 ### About Me 😎
 
-I'm currently in college <br/>
+I'm currently working as a QA Software Tester <br/>
 Always learning new technologies <br/>
 Committed and Focused on my tasks  <br/>
 Thinking about new projects

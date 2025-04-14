@@ -1,6 +1,5 @@
 # Hi, I'm Álvaro Dayle! 👋
 Brazilian <br/>
-23 years old
 
 ### About Me 😎
 

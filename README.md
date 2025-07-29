@@ -5,8 +5,7 @@ Brazilian <br/>
 
 I'm currently working as a QA Software Tester <br/>
 Always learning new technologies <br/>
-Committed and Focused on my tasks  <br/>
-Thinking about new projects
+Committed and Focused on my tasks
 
 ### Contact Me 📪
 
